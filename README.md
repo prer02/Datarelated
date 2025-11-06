@@ -1,5 +1,5 @@
  **House Market Analysis Dashboard – Power BI**
-**** Project Overview****
+** Project Overview**
 
 The House Market Analysis Dashboard provides a data-driven overview of the housing market performance across multiple regions.
 It helps in identifying sales trends, pricing behavior, and growth patterns using dynamic visuals and KPIs.
